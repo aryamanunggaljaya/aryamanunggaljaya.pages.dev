@@ -1,0 +1,3 @@
+<?php if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+
+$environment_variable = '{"themes":{"1":{"themes_url":"https:\/\/aryamanunggaljaya.com\/wp-content\/themes","use_child_theme":false,"main":{"folder_name":"hello-madxartwork","mapped_name":""}}},"allowed_paths":["D:\/xampp81\/htdocs-arya\/wp-content\/themes"],"wordpress_directory":"","site_relative_path":"\/","cache_path":"D:\/xampp81\/htdocs-arya\/wp-content\/cache\/wph\/"}'; ?>
